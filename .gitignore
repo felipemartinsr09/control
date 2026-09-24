@@ -1,0 +1,17 @@
+# Proteção de privacidade: impede upload de extratos e planilhas reais
+*.pdf
+*.xlsx
+*.csv
+
+# Cache do Python
+__pycache__/
+*.py[cod]
+
+# Ambientes virtuais
+.venv/
+env/
+venv/
+
+# Configurações de IDEs
+.vscode/
+.idea/
